@@ -1,1 +1,1 @@
-# Ini adalah aplikasi pemesanan tiket konser
+# Ini adalah aplikasi web pemesanan tiket konser
